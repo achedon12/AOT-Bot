@@ -33,6 +33,14 @@ fs.readdir("./commands/",function (error,files){
 
 module.exports.commands = Collection;
 
+
+let allProfs = [];
+const cii = JSON.parse(fs.readFileSync(`${__dirname}/citations.json`));
+for (let i = 0; i < cii.length; i++) {
+    allProfs.push(cii[i].name);
+}
+module.exports.profs = allProfs;
+
 fs.readdir("./events/", function (err, files) {
     files.forEach(file => {
         Client.on(file.split(".")[0], (args, args2, args3) => {
