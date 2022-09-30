@@ -10,6 +10,14 @@
 			{
 				"date": "16/09/2022",
 				"text": "Domage que tu ne soit plus délégué hein?"
+			},
+			{
+				"date": "27/09/2022",
+				"text": "J'enlève vite mon slip"
+			},
+			{
+				"date": "27/09/2022",
+				"text": "J'aère vite mon slip"
 			}
 		]
 	},
@@ -44,6 +52,10 @@
 			{
 				"date": "56/29/2981",
 				"text": "DEHOOOOOOOOOOOOOOOOORS !"
+			},
+			{
+				"date": "29/09/2022",
+				"text": "Je vais taper à la porte de ce porc là   `légèrement modifié`"
 			}
 		]
 	},
@@ -83,27 +95,31 @@
 		"citations": [
 			{
 				"date": "16/09/2022",
-				"text":"Les îles Féréro"
+				"text": "Les îles Féréro"
 			},
 			{
 				"date": "16/09/2022",
-				"text":"Il va falloir que jpasse sous la taaaaaaaable"
+				"text": "Il va falloir que jpasse sous la taaaaaaaable"
 			},
 			{
 				"date": "23/09/2022",
-				"text":"Mathys range moi ce truc 😏"
+				"text": "Mathys range moi ce truc 😏"
 			},
 			{
 				"date": "23/09/2022",
-				"text":"Tu fumes pas un peu des joins sabri? Il a deux de tension"
+				"text": "Tu fumes pas un peu des joins sabri? Il a deux de tension"
 			},
 			{
 				"date": "23/09/2022",
-				"text":"Nan mais c'est bien il ne moura pas d'hypertension"
+				"text": "Nan mais c'est bien il ne moura pas d'hypertension"
 			},
 			{
 				"date": "23/09/2022",
-				"text":"Alors Yohann comment ça c'est passé tes vacances ? Tu m'as pas raconté"
+				"text": "Alors Yohann comment ça c'est passé tes vacances ? Tu m'as pas raconté"
+			},
+			{
+				"date": "30/09/2022",
+				"text": "En fait, vous ne pouvez pas légalement être des pd"
 			}
 		]
 	},
@@ -123,11 +139,19 @@
 		"citations": [
 			{
 				"date": "20/09/2022",
-				"text":"Qu'est-ce que Ethan un matin à 8h en excès de vitesse sur le périph' ? -> Un con-pressé ! "
+				"text": "Qu'est-ce que Ethan un matin à 8h en excès de vitesse sur le périph' ? -> Un con-pressé ! "
 			},
 			{
 				"date": "23/09/2022",
-				"text":"On a des idées originales"
+				"text": "On a des idées originales"
+			},
+			{
+				"date": "27/09/2022",
+				"text": "*Regarde la réunion métavers de Carrefour* -> C'est donc ça le Multiverse ?"
+			},
+			{
+				"date": "29/09/2022",
+				"text": "Léo: Mon niveau d'anglais: C3 \n > Yohann: Ou prête mm C4 parce que t'es une bombe 😂"
 			}
 		]
 	},
@@ -141,21 +165,73 @@
 			},
 			{
 				"date": "21/09/2022",
-				"text":"Tu rigoles mais j'ai onlyfans mdr"
+				"text": "Tu rigoles mais j'ai onlyfans mdr"
 			},
 			{
-				"date":"23/09/2022",
-				"text":"houla j'ai fait un gros zoom sur son magnifique engin"
+				"date": "23/09/2022",
+				"text": "houla j'ai fait un gros zoom sur son magnifique engin"
+			},
+			{
+				"date": "30/09/2022",
+				"text": "en fait le petit doit est sur le cu"
 			}
 		]
 	},
 	{
 		"name": "ethan",
 		"url": "https://intranet.iut-valence.fr/img/PhotosEtudiants/bourguet.jpg",
-		"citations":[
+		"citations": [
 			{
 				"date": "27/09/2022",
 				"text": "Quand il préparais des gateaux chez valrhona [...] c'est le seul moment ou j'ai aimé mon frère"
+			},
+			{
+				"date": "27/09/2022",
+				"text": "Avec ton Python de merde ksiiii ksiiii"
+			}
+		]
+	},
+	{
+		"name": "val",
+		"url": "https://intranet.iut-valence.fr/img/PhotosEtudiants/gellyv.jpg",
+		"citations": [
+			{
+				"date": "27/09/2022",
+				"text": "Ya pas besoin d'oeufs pour que ça colle"
+			}
+		]
+	},
+	{
+		"name": "aurelien",
+		"url": "https://intranet.iut-valence.fr/img/PhotosEtudiants/ferrarau.jpg",
+		"citations": [
+			{
+				"date": "28/09/2022",
+				"text": "Je vais créer le hate-club Yohann"
+			}
+		]
+	},
+	{
+		"name": "theo",
+		"url": "https://intranet.iut-valence.fr/img/PhotosEtudiants/graillet.jpg",
+		"citations": [
+			{
+				"date": "30/09/2022",
+				"text": "c'est la réponse AAAAAAAA SHOA"
+			}
+		]
+	},
+	{
+		"name": "gelibert",
+		"url": "https://i.imgur.com/m6v46k8.jpg",
+		"citations": [
+			{
+				"date": "28/09/2022",
+				"text": "Putain c'est trop bon, y a un codegolf"
+			},
+			{
+				"date": "28/09/2022",
+				"text": "Votre PC a été marabouté"
 			}
 		]
 	}
