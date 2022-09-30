@@ -73,7 +73,7 @@ module.exports.execute = function (member, channel, guild, args, Client, interac
                 interaction.reply("⛔ Aucune citations pour cette personne !");
             }
         }else{
-            interaction.reply("⛔ Ce prof est invalide !");
+            interaction.reply("⛔ Cette personne est invalide !");
         }
     }
 

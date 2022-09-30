@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const fs = require('fs');
 const {token} = require('./config.json');
-const { IntentsBitField } = require("discord.js");
+const {IntentsBitField} = require("discord.js");
 
 const myIntents = new IntentsBitField();
 myIntents.add(
@@ -24,10 +24,10 @@ const Client = new Discord.Client({
 module.exports.dirname = __dirname;
 
 let Collection = new Discord.Collection();
-fs.readdir("./commands/",function (error,files){
+fs.readdir("./commands/", function (error, files) {
     files.forEach(file => {
-        let command = require("./commands/"+file);
-        Collection.set(command.config.name,command);
+        let command = require("./commands/" + file);
+        Collection.set(command.config.name, command);
     });
 });
 
